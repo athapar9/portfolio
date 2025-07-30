@@ -60,7 +60,6 @@ export default function Leadership() {
             <p className="mb-4">
               Outside SWE, I’ve led mentorship programs through Women in Software & Hardware (WISH), spoken at equity-focused engineering events, and contributed to national initiatives like the Percentage Project to advance inclusion in STEM.
             </p>
-
             <div className="border-b border-gray-300 w-full max-w-xl mt-6" />
           </div>
         </section>
